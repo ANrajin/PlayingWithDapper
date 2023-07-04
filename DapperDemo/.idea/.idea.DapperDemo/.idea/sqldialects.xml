@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/StoreProcedures/DeleteAddress.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/StoreProcedures/DeleteContact.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/StoreProcedures/GetContact.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/StoreProcedures/SaveAddress.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/StoreProcedures/SaveContact.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/Tables/Addresses.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/Tables/Contacts.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Dapper.DB/dbo/Tables/States.sql" dialect="TSQL" />
+  </component>
+</project>
